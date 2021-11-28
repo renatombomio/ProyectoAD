@@ -2,7 +2,7 @@
 .header{
   width: 100%;
   min-height: 100vh;
-  background-image: url(drstrangetrippi.gif);
+  background-image: url(imagenes/drstrangetrippi.gif);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -150,7 +150,7 @@ text-align: center;
   justify-content: center;
   -webkit-backdrop-filter: blur(10px);
   backdrop-filter: blur(10px);
-background-image: url(galax.jpeg);
+background-image: url(imagenes/galax.jpeg);
 }
 
 .caja__trasera div{
